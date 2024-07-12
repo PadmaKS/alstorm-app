@@ -10,5 +10,4 @@ public class AlstormAppApplication {
 		SpringApplication.run(AlstormAppApplication.class, args);
 		System.out.println("alstorm app started on friday");
 	}
-
 }
